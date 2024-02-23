@@ -32,7 +32,7 @@ The menu system allows players to start a new game, quit the game.
 ### Server Discovery
 
 The server discovery functionality enables players to discover and connect to available game servers for multiplayer matches.
-This avoids having to manually insert the server ip.
+This avoids having to manually insert the server ip. Easy to reuse on other projects, a single source [file](https://github.com/dgsantana/tic_tac_toe/blob/main/src/network/discovery.rs).
 
 ## Contributing
 
